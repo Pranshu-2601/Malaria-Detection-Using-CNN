@@ -6,18 +6,18 @@ Web app for detecting malaria parasites in a blood smear image.
 https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
 # Software Requirenments
--Python 3.9
--Flask 
--HTML5
--CSS
--JS
--Tensor flow
--Keras
--NumPy
--Sklearn
--OpenCV
--PIL
--Bootstarp
+1.Python 3.9
+2.Flask 
+3.HTML5
+4.CSS
+5.JS
+6.Tensor flow
+7.Keras
+8.NumPy
+9.Sklearn
+10.OpenCV
+11.PIL
+12.Bootstarp
 
 # CNN Architecture
 ![1_18A5bLKeQKCRuOIT17pT8A](https://user-images.githubusercontent.com/78203981/149713399-57fd3605-4cc7-4c7d-9a21-32086812db07.png)

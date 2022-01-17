@@ -27,6 +27,9 @@ https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 Download, Extract and open the complete Malaria Detection folder in the suitable text editor.
 ## 2.
 Install the required libraries.
+
+<img width="295" alt="ertgynarth" src="https://user-images.githubusercontent.com/78203981/149715339-7e2d079a-c514-4096-a3f9-60f6f1953a20.png">
+
 ## 3.
 Train the Model using maintrain.py
 - Note:- You may get the Model accuracy In between 80-90%

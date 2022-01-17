@@ -42,11 +42,17 @@ Run the app.py
 
 Then the Model will be Loaded Successfully on the Local Server.
 Running on http://127.0.0.1:5000/
+<img width="958" alt="1" src="https://user-images.githubusercontent.com/78203981/149716776-44d6aef8-9bd9-4276-9fec-b4049ad5f526.png">
 
 ## 5. 
 Upload the Images from the Dataset given
 
-<img width="958" alt="1" src="https://user-images.githubusercontent.com/78203981/149716776-44d6aef8-9bd9-4276-9fec-b4049ad5f526.png">
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/78203981/149716893-859eae0e-1f92-46d6-a08e-d4d046031205.png">
+
+The final Predection Of the image will be displayed below.
+
+
+
 
 
 

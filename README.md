@@ -20,6 +20,7 @@ PIL
 Bootstarp
 
 # CNN Architecture
+![1_18A5bLKeQKCRuOIT17pT8A](https://user-images.githubusercontent.com/78203981/149713399-57fd3605-4cc7-4c7d-9a21-32086812db07.png)
 
 
 

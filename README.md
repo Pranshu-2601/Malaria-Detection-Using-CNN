@@ -1,5 +1,6 @@
 # Malaria-Detection-Using-CNN
 Web app for detecting malaria parasites in a blood smear image. 
+
 <img width="958" alt="1" src="https://user-images.githubusercontent.com/78203981/149712395-950d715e-2afa-4d53-a72e-4acdee3b5cc6.png">
 
 # Dataset Used
@@ -36,7 +37,8 @@ Train the Model using maintrain.py
 <img width="960" alt="wertnaertyus,dt" src="https://user-images.githubusercontent.com/78203981/149716065-26dfc54d-cc9c-482b-bd56-42b762d539e3.png">
 
 
-- Note:- You may get the Model accuracy In between 80-90%
+# Note:- You may get the Model accuracy In between 80-90%
+
 ## 4.
 Run the app.py
 
@@ -50,6 +52,9 @@ Upload the Images from the Dataset given
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/78203981/149716893-859eae0e-1f92-46d6-a08e-d4d046031205.png">
 
 The final Predection Of the image will be displayed below.
+
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/78203981/149717162-a763b7c5-583f-42cc-a79f-93abde6acd4f.png">
+
 
 
 

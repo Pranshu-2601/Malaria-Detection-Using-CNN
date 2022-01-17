@@ -32,8 +32,20 @@ Install the required libraries.
 
 ## 3.
 Train the Model using maintrain.py
+
+<img width="960" alt="wertnaertyus,dt" src="https://user-images.githubusercontent.com/78203981/149716065-26dfc54d-cc9c-482b-bd56-42b762d539e3.png">
+
+
 - Note:- You may get the Model accuracy In between 80-90%
 ## 4.
+Run the app.py
+
+Then the Model will be Loaded Successfully on the Local Server.
+Running on http://127.0.0.1:5000/
+
+## 5. 
+Upload the Images from the Dataset Given
+
 
 
 

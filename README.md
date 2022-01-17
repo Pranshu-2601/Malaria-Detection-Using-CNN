@@ -22,6 +22,19 @@ https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 # CNN Architecture
 ![1_18A5bLKeQKCRuOIT17pT8A](https://user-images.githubusercontent.com/78203981/149713399-57fd3605-4cc7-4c7d-9a21-32086812db07.png)
 
+# How to use
+## 1.
+Download, Extract and open the complete Malaria Detection folder in the suitable text editor.
+## 2.
+Install the required libraries.
+## 3.
+Train the Model using maintrain.py
+- Note:- You may get the Model accuracy In between 80-90%
+## 4.
+
+
+
+
 
 
 

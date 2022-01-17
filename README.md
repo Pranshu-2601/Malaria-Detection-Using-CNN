@@ -44,7 +44,10 @@ Then the Model will be Loaded Successfully on the Local Server.
 Running on http://127.0.0.1:5000/
 
 ## 5. 
-Upload the Images from the Dataset Given
+Upload the Images from the Dataset given
+
+<img width="958" alt="1" src="https://user-images.githubusercontent.com/78203981/149716776-44d6aef8-9bd9-4276-9fec-b4049ad5f526.png">
+
 
 
 
